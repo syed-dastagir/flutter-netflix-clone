@@ -1,0 +1,47 @@
+name: watchit
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  animated_splash_screen: ^1.3.0
+  page_transition: ^2.0.1-nullsafety.0
+  http: ^1.1.0
+  bloc: ^8.1.2
+  flutter_bloc:
+  meta: ^1.9.1
+  equatable:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/logo.png
+    - assets/large_n.png
+    - assets/home.png
+    - assets/new_and_hot.png
+    - assets/search.png
+    - assets/downloads.png
+    - assets/screen_share.png
+    - assets/account_user.png
+    - assets/sunset.png
+    - assets/play_large.png
+    - assets/stranger_things.png
+    - assets/close_ic.png 
+    - assets/dolby_vision.png
+    - assets/hd.png 
+    - assets/ad.png 
+    - assets/like.png 
+    - assets/logo_small.png 
+    - assets/share.png
+    - assets/play_ic.png
+    - assets/add_large.png
